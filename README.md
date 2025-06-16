@@ -1,1 +1,1 @@
-# Projetos
+Projetos desenvolvidos por um estudante do Ensino Médio Técnico em TI, diretamente da sala de aula para o Git! Aqui você encontra ideias em construção, códigos em evolução. Cada linha de código é um passo no meu caminho como futuro desenvolvedor
